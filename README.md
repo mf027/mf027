@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mircea
-- 👀 I’m interested in 
+- 👀 I’m interested in IT industry, especially java development.
 - 🌱 I’m currently learning backend development using Spring boot.
 
 <!---
